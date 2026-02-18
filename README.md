@@ -1,10 +1,10 @@
 ### 💫 about me:
 
-🧠 I’m currently working on scaling engineering teams and processes, bringing AI into everyday workflows to improve reliability, speed, and impact across the org.<br>
-🤝 I’m looking to collaborate on AI‑powered automation, internal developer platforms, and intelligent tooling that helps teams ship faster with fewer bottlenecks.<br>
-🤲 I’m looking for help with designing robust AI governance, evaluation frameworks, and monitoring systems so we can safely deploy high‑leverage AI solutions in production.<br>
-🌱 I’m currently learning more about LLMOps, prompt engineering, vector databases, and retrieval‑augmented generation to turn scattered company knowledge into useful AI copilots.<br>
-💬 Ask me about being an engineering manager at CEPRES, running AI hackathons, and using AI generalist patterns to increase efficiency and output in product and engineering orgs.<br>
+🧠 I’m currently working on scaling engineering teams and processes, bringing AI into everyday workflows to improve reliability, speed, and impact across the org.<br><br>
+🤝 I’m looking to collaborate on AI‑powered automation, internal developer platforms, and intelligent tooling that helps teams ship faster with fewer bottlenecks.<br><br>
+🤲 I’m looking for help with designing robust AI governance, evaluation frameworks, and monitoring systems so we can safely deploy high‑leverage AI solutions in production.<br><br>
+🌱 I’m currently learning more about LLMOps, prompt engineering, vector databases, and retrieval‑augmented generation to turn scattered company knowledge into useful AI copilots.<br><br>
+💬 Ask me about being an engineering manager at CEPRES, running AI hackathons, and using AI generalist patterns to increase efficiency and output in product and engineering orgs.<br><br>
 ⚡ Fun fact: AI agents are my current best friends—I prototype with them daily to automate reviews, generate insights from data, and reduce busywork for my teams.
 
 ### 🌐 socials:
